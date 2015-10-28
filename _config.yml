@@ -1,0 +1,23 @@
+name: spitz
+favicon: null
+layout_spectrum: 0.7947404384613037
+typography_spectrum: 0.5411447591613978
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.79127715411596
+  lightness: 0.16031971271149814
+  saturation: 0.9167135611642152
+  rhythmicContrast: 0.4982586158439517
+purpose: []
