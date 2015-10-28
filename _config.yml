@@ -2,6 +2,7 @@ name: spitz
 favicon: null
 layout_spectrum: 0.7947404384613037
 typography_spectrum: 0.5411447591613978
+title: Yandao the Spitz
 cta:
   domain: null
   bucket: null
