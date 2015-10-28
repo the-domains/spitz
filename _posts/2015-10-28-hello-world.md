@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-28T02:17:11.968Z'
-dateModified: '2015-10-28T02:16:54.214Z'
+datePublished: '2015-10-28T02:41:08.988Z'
+dateModified: '2015-10-28T02:41:03.292Z'
 title: Hello World
 authors: []
 publisher:
